@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\At_yarişi\bin\Debug\At_yarişi.exe.config
+C:\Users\Monster\Desktop\At_yarişi\bin\Debug\At_yarişi.exe
+C:\Users\Monster\Desktop\At_yarişi\bin\Debug\At_yarişi.pdb
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.Form1.resources
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.Form2.resources
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.Properties.Resources.resources
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.exe
+C:\Users\Monster\Desktop\At_yarişi\obj\Debug\At_yarişi.pdb
